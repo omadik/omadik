@@ -15,8 +15,7 @@
 
 
 
-
-<img src="https://img.soutula.com/bmiddle/710a2147gy1frpqztrbyij20by0ezaax.jpg" width="100%">
+![Описание]([https://i.imgur.com/xxxxx.png](https://img.soutula.com/bmiddle/710a2147gy1frpqztrbyij20by0ezaax.jpg))
 
 
 
