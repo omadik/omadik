@@ -1,9 +1,7 @@
-<p align="center" style="font-family: monospace; font-size: 22px;">
-  <b>Omadeus</b>
-</p>
+`Omadeus Page`
 
 <p align="center" style="font-family: monospace; font-size: 15px; opacity: 0.8;">
-  ща пишу ещё пока что
+  `ща пишу ещё пока что`
 </p>
 
 ---
