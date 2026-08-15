@@ -19,8 +19,8 @@
 
 ![test](i/mem.png)
 
-things I use
-C++ C# C Python Linux my brain
+### things I use
+`C++` `C#` `C` `Python` `Linux` `my brain`
 
 <!--
 **omadik/omadik** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
