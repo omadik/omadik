@@ -15,7 +15,7 @@
 
 
 
-![test](assets/mem.png)
+![test](i/mem.png)
 
 
 
