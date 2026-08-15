@@ -15,7 +15,7 @@
 
 
 
-![test](https://img2020.cnblogs.com/blog/1987552/202003/1987552-20200330101843574-627391413.png)
+![test](assets/mem.png)
 
 
 
