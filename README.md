@@ -10,7 +10,14 @@
 
 
 ### things I use
-`C++/C#/C` `Python` `Linux` ``
+`C++/C#/C` `Python` `Linux` `my brain`
+
+
+
+
+
+<img src="https://img.soutula.com/bmiddle/710a2147gy1frpqztrbyij20by0ezaax.jpg" width="100%">
+
 
 
 <!--
