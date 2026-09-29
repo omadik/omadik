@@ -8,7 +8,6 @@
 
 ### Сейчас в работе
 
-- [] `поиск стабильной работы`
 - [] `вот эта именно страница`
 - [] `разработка тг ботов`
 - [] `переработка старых проектов`
@@ -20,7 +19,7 @@
 ![test](i/mem.png)
 
 ### things I use
-`C++` `C#` `C` `Python` `Linux` `my brain`
+`C++` `C#` `C` `Python` `Linux` `my brain` `html`
 
 <!--
 **omadik/omadik** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
